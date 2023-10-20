@@ -1,0 +1,10 @@
+{
+  "name": "PWA Text Editor",
+  "short_name": "Text Editor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A text editor app.",
+  "background_color": "black",
+  "theme_color": "black"
+}
