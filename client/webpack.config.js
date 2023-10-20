@@ -16,8 +16,8 @@ module.exports = () => {
       install: './src/js/install.js'
     },
     output: {
+      path: path.resolve(__dirname, 'dist'),
       filename: 'main.bundle.js',
-      path: path.resolve(__dirname, 'dist')
     },
     plugins: [
       new MiniCssExtractPlugin(),
