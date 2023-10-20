@@ -18,4 +18,4 @@ Clone or Fork the repository to your computer. Enter `npm i` to install dependan
 
 ## Link to Deployed Application
 
-[Click here to use the application](#)
+[Click here to use the application](https://pwa-text-editor33-67cc2d63795c.herokuapp.com/)
